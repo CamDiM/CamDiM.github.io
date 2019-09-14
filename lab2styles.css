@@ -1,0 +1,8 @@
+.jumbotron{
+	display: flex;
+	align-items: center;
+	background-image: url("https://free-images.com/lg/a3d2/houses_neighborhood_neighbourhood_691586.jpg");
+	background-size: cover;
+	height: 400px;
+	color: rgb(200,80,45);
+}
