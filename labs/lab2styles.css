@@ -1,4 +1,36 @@
+#right{
+	float: right;
+	margin-top: 50px;
+}
+
+#right h2{
+	background-color: rgb(200,90,0);
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+}
+
+#left{
+	float: left;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	font-size: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.main{
+	font-family: 'Crimson Pro', serif;
+	display: flex;
+}
+
 .jumbotron{
+	font-family: 'Open Sans Condensed', sans-serif;
 	display: flex;
 	align-items: center;
 	background-image: url("https://free-images.com/lg/a3d2/houses_neighborhood_neighbourhood_691586.jpg");
@@ -6,3 +38,22 @@
 	height: 450px;
 	color: rgb(200,90,0);
 }
+
+section .row img{
+  margin: 50px 0 0;
+  padding: 5px;
+  width: 110%;
+  -moz-border-radius: 30px;
+  -webkit-border-radius: 30px;
+  border-radius: 30px;
+}
+
+section .row p{
+	margin-bottom: 10px;
+}
+
+footer{
+	float: left;
+	font-size: 10px;
+}
+
