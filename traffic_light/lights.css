@@ -1,4 +1,8 @@
 #light{
 	background-color: red;
-	color: red;
+	color: white;
+	margin: auto;
+	height: 300px;
+	width: 300px;
+	border-radius: 50%;
 }
